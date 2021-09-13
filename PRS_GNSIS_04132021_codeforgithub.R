@@ -17,7 +17,7 @@ library(corrplot)
 
 #####################   Section Title ######################
 
-# 1. command line using PLINK and PRSice-2
+# 1. command line using PLINK and PRSice-2 to create PRS
 # 2. Selection bias check
 # 3. input candidate pathways
 # 4. Cox regression (univariate)
@@ -29,7 +29,7 @@ library(corrplot)
 
 ############################ end ################################
 
-# command line using PLINK and PRSice-2 -----------------------------------
+# command line using PLINK and PRSice-2 to create PRS -----------------------------------
 
 
 ##Command line script using PLINK--------------------------
