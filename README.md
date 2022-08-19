@@ -1,6 +1,7 @@
 # polygenic risk score predicting post stroke mortality
 
 ##### The following manuscript was poster presented at ASHG2021 and published in Scientific Report (https://doi.org/10.1038/s41598-022-16510-x)
+##### See behind the paper at https://healthcommunity.nature.com/posts/generating-polygenic-risk-scores-from-gene-sets-why-how
 ## Predicting Mortality Among Ischemic Stroke Patients Using Pathways-Derived Polygenic Risk Scores 
 ### Jiang Li, Durgesh Chaudhary, Christoph J Griessenauer, David J Carey, Regeneron Genetics Center, Ramin Zand, Vida Abedi
 #### Geisinger Healthscare System
